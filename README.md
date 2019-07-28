@@ -5,7 +5,9 @@ usage: nslookup.py [-h] [-l LIST] [-o OUTPUT]
 
 optional arguments:
   -h, --help            show this help message and exit
+  
   -l LIST, --list LIST  List of dns names you want IP's for
+  
   -o OUTPUT, --output OUTPUT Output file to save list
   
  #Information
