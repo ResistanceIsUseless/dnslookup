@@ -10,7 +10,7 @@ optional arguments:
   
   -o OUTPUT, --output OUTPUT Output file to save list
   
- # Information
+ ## Information
  - Requires 'pip install dnspython'
  - Takes a file as input and removes newlines and http:// https://
  - Doesn't print any duplicate IP's
